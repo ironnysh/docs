@@ -1,0 +1,2 @@
+# docs
+Sample site documentations
