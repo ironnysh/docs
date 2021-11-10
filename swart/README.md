@@ -5,11 +5,11 @@ Welcome to Swart's online backstage. The following document is intended for eith
 The purpose of this manual is not to provide complete and detailed documentation of all the site's code and functionality but to serve as a general source of information for your reference.
 
 **What you'll find here?**
-- [Directory structure](https://github.com/swart-berlin/swart#directory-structure)
-- [File overview](https://github.com/swart-berlin/swart#file-overview)
-- [How-to update the content](https://github.com/swart-berlin/swart#how-to)
-- [Style guide](https://github.com/swart-berlin/swart#style-guide)
-- [Developer docs](https://github.com/swart-berlin/swart#developer-docs)
+- [Directory structure](#directory-structure)
+- [File overview](#file-overview)
+- [How-to update the content](#how-to---update-the-content)
+- [Style guide](#style-guide)
+- [Developer docs](#developer-docs)
 
 ## Directory structure
 
@@ -139,13 +139,13 @@ The following section includes short guides for updating various sections of the
 If you're not familiar with `markdown` or `JSON` files or feel unsure about the steps below, please consult the webmaster (or the internet) to avoid errors on the site.
 
 ### Update the content of the About, Impressum, or Datenschutz pages
-1. Open the [site's repository](https://github.com/swart-berlin/swart) on GitHub.
-2. Click [the `src` directory](https://github.com/swart-berlin/swart/tree/master/src).
-3. Click the file you want to change: [about.md](https://github.com/swart-berlin/swart/blob/master/src/about.md), [impressum.md](https://github.com/swart-berlin/swart/blob/master/src/impressum.md), or [privacy-policy.md](https://github.com/swart-berlin/swart/blob/master/src/privacy-policy.md).
+1. Open the [site's repository](swart-berlin/swart) on GitHub.
+2. Click [the `src` directory](src).
+3. Click the file you want to change: [about.md](src/about.md), [impressum.md](src/impressum.md), or [privacy-policy.md](src/privacy-policy.md).
 4. Click the pencil icon on the right. Alternatively, click any of the links below to navigate directly to the editing window of each file:
-- [About](https://github.com/swart-berlin/swart/edit/master/src/about.md)
-- [Impressum](https://github.com/swart-berlin/swart/edit/master/src/impressum.md)
-- [Privacy policy](https://github.com/swart-berlin/swart/edit/master/src/privacy-policy.md)
+- [About](swart-berlin/swart/edit/master/src/about.md)
+- [Impressum](swart-berlin/swart/edit/master/src/impressum.md)
+- [Privacy policy](swart-berlin/swart/edit/master/src/privacy-policy.md)
 5. When you're done, scroll down to _Commit changes_ and type a summary of the changes you made. For example, "added information about the bar's historical location".
 6. Click the green `Commit changes` button on the bottom.
 
@@ -174,9 +174,9 @@ The drink table has four fields:
 
 #### Upload a new photo of the drink
 To upload a new photo, follow these steps:
-1. Open the [site's repository](https://github.com/swart-berlin/swart) on GitHub.
-2. Click [the `src` directory](https://github.com/swart-berlin/swart/tree/master/src).
-3. Click the `Add file` button on the right, and select `Upload files` from the drop-down menu. You can also [click here to navigate directly to the upload window](https://github.com/swart-berlin/swart/upload/master/src).
+1. Open the [site's repository](swart-berlin/swart) on GitHub.
+2. Click [the `src` directory](src).
+3. Click the `Add file` button on the right, and select `Upload files` from the drop-down menu. You can also [click here to navigate directly to the upload window](swart-berlin/swart/upload/master/src).
 4. Drag a JPG file from your device or click `Choose your files` to browse and select a JPG file from your device.
 Depending on its size, it might take a few seconds for the file to upload. Once it does, you will see an indication: the file name with a small `x` on the right. Click the `x` to cancel the upload/delete the file, or continue to the next step.
 5. Scroll down to _Commit changes_ and type a summary of the changes you made. For example, "uploaded a photo of this month's wine offer".
@@ -192,10 +192,10 @@ The schedule table has four fields:
 *Note: the table is limited to up to **15** events. Additional events will not be displayed on the site's homepage for both readability and visual reasons.
 
 ### Upload new drinks and food menus
-1. Open the [site's repository](https://github.com/swart-berlin/swart) on GitHub.
-2. Click [the `src` directory](https://github.com/swart-berlin/swart/tree/master/src).
-3. Click [the `static` directory](https://github.com/swart-berlin/swart/tree/master/src/static).
-4. Click the `Add file` button on the right, and select `Upload files` from the drop-down menu. You can also [click here to navigate directly to the upload window](https://github.com/swart-berlin/swart/upload/master/src/static).
+1. Open the [site's repository](swart-berlin/swart) on GitHub.
+2. Click [the `src` directory](src).
+3. Click [the `static` directory](src/static).
+4. Click the `Add file` button on the right, and select `Upload files` from the drop-down menu. You can also [click here to navigate directly to the upload window](swart-berlin/swart/upload/master/src/static).
 5. Drag a PDF file from your device or click `Choose your files` to browse and select a PDF file from your device.
 
 **Important**: make sure the file name is _identical_ to the existing drinks/food menu file: `getraenke01.pdf` or `speisen01.pdf`, respectively.
@@ -206,11 +206,11 @@ Depending on the file size, it might take a few seconds for the file to upload. 
 
 ### Update contact information and business details
 Follow these steps to change the contact information and business details:
-1. Open the [site's repository](https://github.com/swart-berlin/swart) on GitHub.
-2. Click [the `src` directory](https://github.com/swart-berlin/swart/tree/master/src).
-3. Click [the `_data` directory](https://github.com/swart-berlin/swart/tree/master/src/_data).
+1. Open the [site's repository](swart-berlin/swart) on GitHub.
+2. Click [the `src` directory](src).
+3. Click [the `_data` directory](src/_data).
 4. Click the file `settings.json`.
-5. Click the pencil icon on the right. Alternatively, [click here to navigate directly to the editing window](https://github.com/swart-berlin/swart/edit/master/src/_data/settings.json).
+5. Click the pencil icon on the right. Alternatively, [click here to navigate directly to the editing window](swart-berlin/swart/edit/master/src/_data/settings.json).
 6. When you're done, scroll down to _Commit changes_ and type a summary of the changes you made. For example, "changed opening hours on Thursday".
 7. Click the green `Commit changes` button on the bottom.
 
@@ -223,14 +223,14 @@ Adding photos to the gallery in the About page requires two steps:
 
 #### Uploading new photos to the gallery
 To upload the photos, see the _Upload a new photo_ section above.
-Make sure you upload the photos to the **correct directory** - [click here to navigate directly to`src/static/photos`](https://github.com/swart-berlin/swart/tree/master/src/static/photos).
+Make sure you upload the photos to the **correct directory** - [click here to navigate directly to`src/static/photos`](src/static/photos).
 
 #### Adding the details of the new photo(s)
-1. Open the [site's repository](https://github.com/swart-berlin/swart) on GitHub.
-2. Click [the `src` directory](https://github.com/swart-berlin/swart/tree/master/src).
-3. Click [the `_data` directory](https://github.com/swart-berlin/swart/tree/master/src/_data).
+1. Open the [site's repository](swart-berlin/swart) on GitHub.
+2. Click [the `src` directory](src).
+3. Click [the `_data` directory](src/_data).
 4. Click the file `gallery.json`.
-5. Click the pencil icon on the right. Alternatively, [click here to navigate directly to the editing window](https://github.com/swart-berlin/swart/edit/master/src/_data/gallery.json).
+5. Click the pencil icon on the right. Alternatively, [click here to navigate directly to the editing window](swart-berlin/swart/edit/master/src/_data/gallery.json).
 6. Add the details of the new photo/s. When you're done, scroll down to _Commit changes_ and type a summary of the changes you made. For example, "added a photo of the bar to the gallery".
 7. Click the green `Commit changes` button on the bottom.
 
@@ -262,7 +262,7 @@ The only fixed variable is the default base font size in most browsers, which cu
 ---
 
 ## Developer docs
-For information about the Airtable integration, see the extended [developer documentation](https://github.com/swart-berlin/swart/blob/master/DEV-DOCS.md).
+For information about the Airtable integration, see the extended [developer documentation](DEV-DOCS.md).
 
 ---
 

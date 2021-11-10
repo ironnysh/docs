@@ -10,10 +10,10 @@ We wanted to allow a person who might not know HTML (or even markdown, for that 
 Now, the editor can manage the content using an intuitive spreadsheet-like UI, and the changes are automatically deployed to the site.
 
 Our solution integrates four services, referenced below:
-- [Eleventy (11ty)](https://github.com/swart-berlin/swart/blob/master/DEV-DOCS.md#eleventy---interacting-with-the-airtable-api)
-- [Airtable](https://github.com/swart-berlin/swart/blob/master/DEV-DOCS.md#airtable---managing-the-content)
-- [Pipedream](https://github.com/swart-berlin/swart/blob/master/DEV-DOCS.md#pipedream---automating-the-deployment-to-vercel)
-- [Vercel](https://github.com/swart-berlin/swart/blob/master/DEV-DOCS.md#vercel---building-the-site-and-managing-the-secrets)
+- [Eleventy (11ty)](DEV-DOCS.md#eleventy---interacting-with-the-airtable-api)
+- [Airtable](DEV-DOCS.md#airtable---managing-the-content)
+- [Pipedream](DEV-DOCS.md#pipedream---automating-the-deployment-to-vercel)
+- [Vercel](DEV-DOCS.md#vercel---building-the-site-and-managing-the-secrets)
 
 This document provides an overview of the integration for any future developer/webmaster.
  
@@ -112,7 +112,7 @@ Bellow is the template file that generates the _Der Drink_ section on the homepa
 ## Airtable - managing the content
 The site editor manages the content in an Airtable _base_ named [Swart Final 2020](https://airtable.com/appbUdgFei30sFUZP).
 
-For more information about the tables and fields, see the [relevant sections of the Site Manual](https://github.com/swart-berlin/swart#update-the-content-on-the-homepage).
+For more information about the tables and fields, see the [relevant sections of the Site Manual](README.md#update-the-content-on-the-homepage).
 
 ## Pipedream - automating the deployment to Vercel
 [Pipedream](https://pipedream.com) is an automation tool similar to Integromat (or Zapier).
