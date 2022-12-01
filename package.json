@@ -1,0 +1,24 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "1. Client Site (names and details omitted): [README](client_x/README.md), [Airtable API integration](client_x/DEV-DOCS.md) 2. Might Eleventy Starter: [README](mighty/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironnysh/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironnysh/docs/issues"
+  },
+  "homepage": "https://github.com/ironnysh/docs#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.1",
+    "tinacms": "^1.0.1"
+  }
+}
