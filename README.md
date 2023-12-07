@@ -9,6 +9,7 @@ As part of my responsibilities, I’ve also developed and implemented the conten
 
 1. Client Site (names and details omitted): [README](client_x/README.md), [Airtable API integration](client_x/DEV-DOCS.md)
 2. Might Eleventy Starter: [README](mighty/README.md)
+3. WordPress theme and plugins ([WIP](wordpress/README.md))
 
 ## Websites
 A few websites I’ve designed and developed (2020--)
