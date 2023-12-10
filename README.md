@@ -7,10 +7,10 @@ As part of my responsibilities, I’ve also developed and implemented the conten
 
 ## Sample documentation
 
-1. Client Site (names and details omitted): [README](client_x/README.md), [Airtable API integration](client_x/DEV-DOCS.md)
-2. Mighty Eleventy Starter: [README](mighty/README.md)
-3. WordPress theme and plugins ([WIP](wordpress/README.md))
-4. Velojiraptor, an tool to generate developer productivity metrics from Jira tickets: [README](https://github.com/project-a/velojiraptor/blob/main/README.md) and an [article I wrote](https://insights.project-a.com/engineering-your-engineers-velojiraptor/) about this open-source project and the motivation behind it.
+1. A manual for a client website (names and details omitted): [README](client_x/README.md), [Airtable API integration](client_x/DEV-DOCS.md).
+2. **Mighty** Eleventy Starter: [README](mighty/README.md).
+3. WordPress theme and plugins ([WIP](wordpress/README.md)).
+4. **Velojiraptor**, generate developer productivity metrics from Jira tickets: [README](https://github.com/project-a/velojiraptor/blob/main/README.md) and an [article I wrote](https://insights.project-a.com/engineering-your-engineers-velojiraptor/) about this open-source project and the motivation behind it.
 
 ## Websites
 A few websites I’ve designed and developed (2020--)
