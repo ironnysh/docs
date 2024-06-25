@@ -6,7 +6,7 @@
             "step": "importWxr",
             "file": {
                 "resource": "url",
-                "url": "https://gist.githubusercontent.com/ironnysh/docs/wordpress/learn-html-demo/learn-html-demo.xml"
+                "url": "https://raw.githubusercontent.com/ironnysh/docs/main/wordpress/learn-html-demo/learn-html-demo.xml"
             }
         }
     ]
