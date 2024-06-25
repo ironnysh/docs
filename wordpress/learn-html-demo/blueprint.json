@@ -1,0 +1,13 @@
+{
+    "login": true,
+    "landingPage": "/wp-admin/post.php?post=4&action=edit",
+    "steps": [
+        {
+            "step": "importWxr",
+            "file": {
+                "resource": "url",
+                "url": "https://gist.githubusercontent.com/ironnysh/docs/wordpress/learn-html-demo/learn-html-demo.xml"
+            }
+        }
+    ]
+}
