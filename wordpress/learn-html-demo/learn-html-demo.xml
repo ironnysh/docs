@@ -86,7 +86,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>And here's another link—this one leads to <a href="https://www.example.com">an external site</a>.</p>
+<p>And here's another link—this one leads to <a href="https://www.wordpress.org">an external site</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"tagName":"section","metadata":{"name":"Image section"},"align":"wide","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
