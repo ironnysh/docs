@@ -12,6 +12,11 @@ My work involved working with a cross-functional team of engineers, product mana
 
 I've also peer reviewed technical content written by teammates, and worked on preparing a combination of markdown templates and VS Code snippets to optimize workflows.
 
+## Manuals and learning materials
+
+- [An overview of relational databases](/assignments/Overview_of_relational_databases.pdf) - sample educational content for a database vendor.
+- [A manual for a drone manufacturer](/assignments/Drone_manual.pdf) - sample documentation for an unmanned aerial systems (sUAS) company.
+
 ## Project A
 
 I [wrote long-form technical content](https://insights.project-a.com/?s=Ronny+Shani+) and supported the engineering, data, and product teams with developing, editing, and writing technical content.
